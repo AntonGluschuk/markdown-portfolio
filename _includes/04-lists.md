@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My favorite books
+- Sharlock Holmes
+- LOTR
+- Chronicles of Amber
+- Dandelion Wine
